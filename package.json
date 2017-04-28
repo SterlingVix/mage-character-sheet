@@ -4,7 +4,8 @@
   "description": "Interactive Mage 2nd E character sheet (Storybook (Airbnb), React).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "start-storybook -p 9001 -c .storybook"
   },
   "repository": {
     "type": "git",
