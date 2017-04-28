@@ -1,0 +1,32 @@
+{
+  "name": "mage-character-sheet",
+  "version": "1.0.0",
+  "description": "Interactive Mage 2nd E character sheet (Storybook (Airbnb), React).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SterlingVix/mage-character-sheet.git"
+  },
+  "keywords": [
+    "mage",
+    "react",
+    "character",
+    "sheet"
+  ],
+  "author": "Aaron Melocik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SterlingVix/mage-character-sheet/issues"
+  },
+  "homepage": "https://github.com/SterlingVix/mage-character-sheet#readme",
+  "devDependencies": {
+    "@kadira/storybook": "^2.35.3"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
